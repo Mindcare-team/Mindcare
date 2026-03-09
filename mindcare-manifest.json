@@ -1,0 +1,16 @@
+{
+  "name": "Mind Care",
+  "short_name": "Mind Care",
+  "description": "Tu espacio seguro para el bienestar académico",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2ede6",
+  "theme_color": "#7fa67f",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["health", "lifestyle", "education"],
+  "lang": "es"
+}
